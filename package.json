@@ -6,9 +6,6 @@
         "type": "git",
         "url": "http://github.com/isaacs/npm.git"
     },
-    "repository": {
-        "type": "svn",
-        "url": "http://v8.googlecode.com/svn/trunk/"
-    },"author": "",
+    "author": "",
     "license": "一特"
 }
