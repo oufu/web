@@ -1,0 +1,28 @@
+{
+  "name": "eter",
+  "description": "",
+  "authors": [
+    "of <523648919@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/523648919/eter_web",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "angular": "^1.4.9",
+    "requirejs": "^2.1.22",
+    "bootstrap": "^3.3.6",
+    "angularAMD": "^0.2.1",
+    "angular-ui-router": "^0.2.17",
+    "ng-admin": "^0.9.1",
+    "ng-dialog": "^0.5.7",
+    "echarts": "^3.1.4"
+  }
+}
