@@ -5,6 +5,7 @@ app.controller('IndexController', function($scope) {
     $scope.carname = "Volvo";
 });
 
-app.controller('TestCorl', function($scope) {
-    $scope.name = "Volvo";
-});
+app.controller('TestCorl',['$scope','apiKey',function($scope,apiKey) {
+
+    $scope.name = apiKey.key;
+    }]);
