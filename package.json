@@ -1,0 +1,14 @@
+{
+    "name": "eter",
+    "version": "1.0.0",
+    "description": "前端框架",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/isaacs/npm.git"
+    },
+    "repository": {
+        "type": "svn",
+        "url": "http://v8.googlecode.com/svn/trunk/"
+    },"author": "",
+    "license": "一特"
+}
